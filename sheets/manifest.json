@@ -1,0 +1,62 @@
+{
+  "clusterTiles": [
+    {
+      "file": "cluster-tiles-1.jpg",
+      "cols": 10,
+      "rows": 7,
+      "count": 69
+    },
+    {
+      "file": "cluster-tiles-2.jpg",
+      "cols": 10,
+      "rows": 7,
+      "count": 69
+    },
+    {
+      "file": "cluster-tiles-3.jpg",
+      "cols": 10,
+      "rows": 7,
+      "count": 69
+    }
+  ],
+  "clusterPrograms": [
+    {
+      "file": "cluster-programs-1.jpg",
+      "cols": 10,
+      "rows": 7,
+      "count": 69
+    },
+    {
+      "file": "cluster-programs-2.jpg",
+      "cols": 10,
+      "rows": 7,
+      "count": 69
+    },
+    {
+      "file": "cluster-programs-3.jpg",
+      "cols": 10,
+      "rows": 7,
+      "count": 69
+    }
+  ],
+  "bloatware": [
+    {
+      "file": "bloatware-1.jpg",
+      "cols": 10,
+      "rows": 3,
+      "count": 23
+    }
+  ],
+  "whiteHat": [
+    {
+      "file": "white-hat-1.jpg",
+      "cols": 10,
+      "rows": 3,
+      "count": 23
+    }
+  ],
+  "backs": {
+    "bloatware": "bloatware-back.jpg",
+    "whiteHat": "white-hat-back.jpg"
+  }
+}
