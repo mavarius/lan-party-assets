@@ -58,5 +58,7 @@
   "backs": {
     "bloatware": "bloatware-back.jpg",
     "whiteHat": "white-hat-back.jpg"
-  }
+  },
+  "gateway": "gateway.jpg",
+  "table": "table.jpg"
 }
