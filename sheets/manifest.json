@@ -60,5 +60,12 @@
     "whiteHat": "white-hat-back.jpg"
   },
   "gateway": "gateway.jpg",
-  "table": "table.jpg"
+  "table": "table.jpg",
+  "tokens": {
+    "blue": "token_blue.png",
+    "orange": "token_orange.png",
+    "purple": "token_purple.png",
+    "green": "token_green.png",
+    "firewall": "token_firewall.png"
+  }
 }
