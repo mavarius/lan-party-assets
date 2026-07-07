@@ -71,9 +71,9 @@
   "roundTracker": {
     "file": "round-tracker.png",
     "w": 360,
-    "h": 676,
-    "head": 116,
-    "row": 56,
+    "h": 740,
+    "head": 120,
+    "row": 62,
     "count": 10,
     "colX": 0.5
   }
