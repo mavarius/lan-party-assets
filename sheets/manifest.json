@@ -70,12 +70,11 @@
   },
   "roundTracker": {
     "file": "round-tracker.png",
-    "marker": "round-marker.png",
-    "w": 380,
-    "h": 656,
-    "gutter": 44,
-    "head": 56,
-    "row": 60,
-    "count": 10
+    "w": 360,
+    "h": 676,
+    "head": 116,
+    "row": 56,
+    "count": 10,
+    "colX": 0.5
   }
 }
