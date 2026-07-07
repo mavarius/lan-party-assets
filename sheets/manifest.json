@@ -67,5 +67,15 @@
     "purple": "token_purple.png",
     "green": "token_green.png",
     "firewall": "token_firewall.png"
+  },
+  "roundTracker": {
+    "file": "round-tracker.png",
+    "marker": "round-marker.png",
+    "w": 380,
+    "h": 656,
+    "gutter": 44,
+    "head": 56,
+    "row": 60,
+    "count": 10
   }
 }
