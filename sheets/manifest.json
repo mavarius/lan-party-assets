@@ -76,5 +76,10 @@
     "row": 62,
     "count": 10,
     "colX": 0.5
+  },
+  "basicActions": {
+    "file": "basic-actions.png",
+    "w": 400,
+    "h": 687
   }
 }
