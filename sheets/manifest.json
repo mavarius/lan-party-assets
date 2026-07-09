@@ -75,7 +75,8 @@
     "head": 120,
     "row": 62,
     "count": 10,
-    "colX": 0.5
+    "colX": 0.5,
+    "startDice": 4
   },
   "basicActions": {
     "file": "basic-actions.png",
