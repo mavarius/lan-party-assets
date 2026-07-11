@@ -73,10 +73,10 @@
     "w": 360,
     "h": 740,
     "head": 120,
-    "row": 62,
-    "count": 10,
+    "row": 155,
+    "count": 4,
     "colX": 0.5,
-    "startDice": 4
+    "startDice": 6
   },
   "basicActions": {
     "file": "basic-actions.png",
