@@ -82,5 +82,11 @@
     "file": "basic-actions.png",
     "w": 400,
     "h": 898
+  },
+  "terminal": {
+    "file": "terminal.png",
+    "w": 560,
+    "h": 560,
+    "starFrac": 0.232
   }
 }
